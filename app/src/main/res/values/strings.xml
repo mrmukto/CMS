@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Security MS</string>
+
+    <string name="register">Register</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="userPhone">Number with country code</string>
+    <string name="phoneNumber">xxxxxxxxxx</string>
+    <string name="email">Email</string>
+    <string name="email_hint">abc@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="passwordHints">Input minimum 4 digits</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="login_info">Already have an account? <font color='#ff5722' face='@font/proxima_nova'><b> Log in</b></font></string>
+    <string name="register_info">Don\'t have an account? <font color='#ff5722' face='@font/proxima_nova'><b> Register</b></font></string>
+    <string name="login">Log In</string>
+    <string name="forget_password">Forget Password</string>
+</resources>
